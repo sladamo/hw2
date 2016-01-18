@@ -1,11 +1,12 @@
 body {
   font-family: "Helvetica", sans-serif;
-  width: 960px;
-  margin: 10px auto;
+  /*width: 1500px;*/
+  /*margin: 20px;*/
+  /*padding: 20px 20px 20px 20px*/
 }
 img {
-  width: 600px;
   box-shadow: 8px 8px 4px #AAA;
+  width: auto;
   /*float: right;*/
 }
 
